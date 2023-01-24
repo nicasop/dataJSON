@@ -1,0 +1,160 @@
+[
+    {
+        "name": "Pedrito Coco",
+        "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/donBosco.jpg",
+        "address": "Enrique Segovia",
+        "email": "pedritoCocO1@example.com",
+        "profesion": "Bartender",
+        "contact": {
+            "home": "02-999-999",
+            "personal" : "0999999999"
+        },
+        "social":{
+            "facebook": "https://es-la.facebook.com/",
+            "twitter": "https://twitter.com/?lang=es",
+            "linkedin" : "https://ec.linkedin.com/"
+        }  
+    },
+    {
+        "name": "Martín Coco",
+        "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/foto1.jpg",
+        "address": "Enrique Segovia",
+        "email": "martinCocO1@example.com",
+        "profesion": "Ingeniero Civil",
+        "contact": {
+            "home": "02-999-999",
+            "personal" : "0999999999"
+        },
+        "social":{
+            "facebook": "https://es-la.facebook.com/",
+            "twitter": "https://twitter.com/?lang=es",
+            "linkedin" : "https://ec.linkedin.com/"
+        }
+    },
+    {
+        "name": "Joaquin Sabina",
+        "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/foto11.jpg",
+        "address": "Av. 6 de Diciembre",
+        "email": "jsabina@example.com",
+        "profesion": "Músico",
+        "contact": {
+            "home": "02-999-999",
+            "personal" : "0999999999"
+        },
+        "social":{
+            "facebook": "https://es-la.facebook.com/",
+            "twitter": "https://twitter.com/?lang=es",
+            "linkedin" : "https://ec.linkedin.com/"
+        }
+    },
+    {
+        "name": "Gabriel Garcia Marquez",
+        "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/m2.jpg",
+        "address": "la Calle J",
+        "email": "pedritoCocO1@example.com",
+        "profesion": "Escritor",
+        "contact": {
+            "home": "02-999-999",
+            "personal" : "0999999999"
+        },
+        "social":{
+            "facebook": "https://es-la.facebook.com/",
+            "twitter": "https://twitter.com/?lang=es",
+            "linkedin" : "https://ec.linkedin.com/"
+        }
+    },
+    {
+        "name": "Sthepen King",
+        "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/m3.jpg",
+        "address": "La Pichincha",
+        "email": "sthepenKing@example.com",
+        "profesion": "Escritor",
+        "contact": {
+            "home": "02-999-999",
+            "personal" : "0999999999"
+        },
+        "facebook": "https://es-la.facebook.com/",
+        "twitter": "https://twitter.com/?lang=es",
+        "linkedin" : "https://ec.linkedin.com/"
+    },
+    {
+        "name": "Miguel Angel",
+        "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/m4.jpg",
+        "address": "Plaza Juan de Austria",
+        "email": "migue@example.com",
+        "profesion": "Pintor",
+        "contact": {
+            "home": "02-999-999",
+            "personal" : "0999999999"
+        },
+        "social":{
+            "facebook": "https://es-la.facebook.com/",
+            "twitter": "https://twitter.com/?lang=es",
+            "linkedin" : "https://ec.linkedin.com/"
+        }
+    },
+    {
+        "name": "Jorge Romero",
+        "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/m5.jpg",
+        "address": "Juan Bautista Aguirre",
+        "email": "jromero@example.com",
+        "profesion": "Bartender",
+        "contact": {
+            "home": "02-999-999",
+            "personal" : "0999999999"
+        },
+        "social":{
+            "facebook": "https://es-la.facebook.com/",
+            "twitter": "https://twitter.com/?lang=es",
+            "linkedin" : "https://ec.linkedin.com/"
+        }
+    },
+    {
+        "name": "Jose Madero",
+        "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/m1.jpg",
+        "address": "Av. Rodriguez",
+        "email": "josee@example.com",
+        "profesion": "Arquitecto",
+        "contact": {
+            "home": "02-999-999",
+            "personal" : "0999999999"
+        },
+        "social":{
+            "facebook": "https://es-la.facebook.com/",
+            "twitter": "https://twitter.com/?lang=es",
+            "linkedin" : "https://ec.linkedin.com/"
+        }
+    },
+    {
+        "name": "Francisco Gonzales",
+        "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/jp.jpeg",
+        "address": "Av. Perez",
+        "email": "fgmexico@example.com",
+        "profesion": "Mercadotecnia",
+        "contact": {
+            "home": "02-999-999",
+            "personal" : "0999999999"
+        },
+        "social":{
+            "facebook": "https://es-la.facebook.com/",
+            "twitter": "https://twitter.com/?lang=es",
+            "linkedin" : "https://ec.linkedin.com/"
+        }
+    },
+    {
+        "name": "María Segovia",
+        "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/f4.jpg",
+        "address": "La Ponderosa",
+        "email": "marusego@example.com",
+        "profesion": "Psicologa",
+        "contact": {
+            "home": "02-999-999",
+            "personal" : "0999999999"
+        },
+        "social":{
+            "facebook": "https://es-la.facebook.com/",
+            "twitter": "https://twitter.com/?lang=es",
+            "linkedin" : "https://ec.linkedin.com/"
+        }
+    }
+]
