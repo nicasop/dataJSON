@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Pedrito Coco",
         "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/donBosco.jpg",
         "address": "Enrique Segovia",
@@ -16,6 +17,7 @@
         }  
     },
     {
+        "id": 2,
         "name": "Martín Coco",
         "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/foto1.jpg",
         "address": "Enrique Segovia",
@@ -32,6 +34,7 @@
         }
     },
     {
+        "id": 3,
         "name": "Joaquin Sabina",
         "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/foto11.jpg",
         "address": "Av. 6 de Diciembre",
@@ -48,6 +51,7 @@
         }
     },
     {
+        "id": 4,
         "name": "Gabriel Garcia Marquez",
         "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/m2.jpg",
         "address": "la Calle J",
@@ -64,6 +68,7 @@
         }
     },
     {
+        "id": 5,
         "name": "Sthepen King",
         "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/m3.jpg",
         "address": "La Pichincha",
@@ -78,6 +83,7 @@
         "linkedin" : "https://ec.linkedin.com/"
     },
     {
+        "id": 6,
         "name": "Miguel Angel",
         "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/m4.jpg",
         "address": "Plaza Juan de Austria",
@@ -94,6 +100,7 @@
         }
     },
     {
+        "id": 7,
         "name": "Jorge Romero",
         "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/m5.jpg",
         "address": "Juan Bautista Aguirre",
@@ -110,6 +117,7 @@
         }
     },
     {
+        "id": 8,
         "name": "Jose Madero",
         "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/m1.jpg",
         "address": "Av. Rodriguez",
@@ -126,6 +134,7 @@
         }
     },
     {
+        "id": 9,
         "name": "Francisco Gonzales",
         "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/jp.jpeg",
         "address": "Av. Perez",
@@ -142,6 +151,7 @@
         }
     },
     {
+        "id": 10,
         "name": "María Segovia",
         "photo": "https://raw.githubusercontent.com/nicasop/dataJSON/main/fotos/f4.jpg",
         "address": "La Ponderosa",
